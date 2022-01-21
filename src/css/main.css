@@ -131,6 +131,10 @@ article footer{
     gap: 30px;
   }
 
+  .reports{
+    margin: 0 auto;
+  }
+
 }
 
 /* Landscape phones and down */
